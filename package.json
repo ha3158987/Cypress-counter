@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/blackcoffee-study/js-counter/issues"
   },
-  "homepage": "https://github.com/blackcoffee-study/js-counter#readme"
+  "homepage": "https://github.com/blackcoffee-study/js-counter#readme",
+  "dependencies": {
+    "cypress": "^9.5.2"
+  }
 }
